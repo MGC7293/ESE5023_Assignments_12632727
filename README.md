@@ -22,3 +22,9 @@
 
 建议作业独立完成，不要过分依赖ai工具，并且请独立思考，在文档内给出自己的解题思路。
 
+HW3 Comments from Yali  
+Total: 40/50
+
+Your code is so complex! I think it's mostly from AI tool. (-5p)
+1.2-1.3. Describe your results. Your description is missing.(-3p)
+2.2. Your legend is wrong, red and blue legend can't represent Nino and La Nina event!(-2p)
